@@ -1,0 +1,637 @@
+{
+  "version": "1.0",
+  "asset_count": 63,
+  "notes": "Source images are concepts. Original_15_Reference_Crops are enlarged crops from user supplied contact sheet, not native 4K originals.",
+  "assets": [
+    {
+      "path": "06_Locations/Original_15_Reference_Crops/LOC-001_SIGNAL_Central_City.jpg",
+      "source_filename": "LOC-001_SIGNAL_Central_City.jpg",
+      "category": "original_15_crop",
+      "pixels": [
+        2048,
+        1661
+      ],
+      "sha256": "8768bc65131903e89d11ada3dc1a22c3d15c5368a0d406264e559b4d499a7773"
+    },
+    {
+      "path": "06_Locations/Original_15_Reference_Crops/LOC-002_Civilian_District.jpg",
+      "source_filename": "LOC-002_Civilian_District.jpg",
+      "category": "original_15_crop",
+      "pixels": [
+        2048,
+        1661
+      ],
+      "sha256": "ad8c457a1ada53aa767dc6a075cba67b4cc6bc55b5fa1f380d387975d0c39705"
+    },
+    {
+      "path": "06_Locations/Original_15_Reference_Crops/LOC-003_Medical_Center.jpg",
+      "source_filename": "LOC-003_Medical_Center.jpg",
+      "category": "original_15_crop",
+      "pixels": [
+        2048,
+        1661
+      ],
+      "sha256": "a84ca8d10fdb34046b3b236cab7958aa914564c335b7aa35e4e73cd832292e46"
+    },
+    {
+      "path": "06_Locations/Original_15_Reference_Crops/LOC-004_Registration_Hub.jpg",
+      "source_filename": "LOC-004_Registration_Hub.jpg",
+      "category": "original_15_crop",
+      "pixels": [
+        2048,
+        1661
+      ],
+      "sha256": "002306fc048e05af978fb19de28d3aaaa7bf097ab51d36f6e4459b210e4591b4"
+    },
+    {
+      "path": "06_Locations/Original_15_Reference_Crops/LOC-005_SIGNAL_Tower_Complex.jpg",
+      "source_filename": "LOC-005_SIGNAL_Tower_Complex.jpg",
+      "category": "original_15_crop",
+      "pixels": [
+        2048,
+        1661
+      ],
+      "sha256": "79c52686af71d0048917cc7375a7bca73a06680c0410fdfa13187e21c1d7db22"
+    },
+    {
+      "path": "06_Locations/Original_15_Reference_Crops/LOC-006_Prisoner_Transport.jpg",
+      "source_filename": "LOC-006_Prisoner_Transport.jpg",
+      "category": "original_15_crop",
+      "pixels": [
+        2048,
+        1661
+      ],
+      "sha256": "9a6bcf9045f863b11d554e8861ceca7aec1dfec80492784dae5f1234079c3c1d"
+    },
+    {
+      "path": "06_Locations/Original_15_Reference_Crops/LOC-007_Transport_Crash_Site.jpg",
+      "source_filename": "LOC-007_Transport_Crash_Site.jpg",
+      "category": "original_15_crop",
+      "pixels": [
+        2048,
+        1661
+      ],
+      "sha256": "880c28bdd1702871002ca339991706e071f64c9a6abd8ad927b51aa511d72b45"
+    },
+    {
+      "path": "06_Locations/Original_15_Reference_Crops/LOC-008_Forest_The_Dead_Zone.jpg",
+      "source_filename": "LOC-008_Forest_The_Dead_Zone.jpg",
+      "category": "original_15_crop",
+      "pixels": [
+        2048,
+        1661
+      ],
+      "sha256": "707d6dc6f2453354f0bfab1c8bf77e7b78229f096e58486fb5701ab4a2cebdbc"
+    },
+    {
+      "path": "06_Locations/Original_15_Reference_Crops/LOC-009_Abandoned_Outpost.jpg",
+      "source_filename": "LOC-009_Abandoned_Outpost.jpg",
+      "category": "original_15_crop",
+      "pixels": [
+        2048,
+        1661
+      ],
+      "sha256": "9f38bc7bae4a7ac6eb8409f76acde0d7de52b3bdee1b404c0c2067f13b5e5a0c"
+    },
+    {
+      "path": "06_Locations/Original_15_Reference_Crops/LOC-010_Broken_Bridge.jpg",
+      "source_filename": "LOC-010_Broken_Bridge.jpg",
+      "category": "original_15_crop",
+      "pixels": [
+        2048,
+        1661
+      ],
+      "sha256": "9ecbf0b7441a6741e4f373acab9b1713e56829840041fecbbf471cdcaa1bb986"
+    },
+    {
+      "path": "06_Locations/Original_15_Reference_Crops/LOC-011_River_Valley.jpg",
+      "source_filename": "LOC-011_River_Valley.jpg",
+      "category": "original_15_crop",
+      "pixels": [
+        2048,
+        1661
+      ],
+      "sha256": "263c1f03b6bc18f4cf38958a61aa9e85644c68327c069984efcbab55eb73484b"
+    },
+    {
+      "path": "06_Locations/Original_15_Reference_Crops/LOC-012_Republic_Hideout.jpg",
+      "source_filename": "LOC-012_Republic_Hideout.jpg",
+      "category": "original_15_crop",
+      "pixels": [
+        2048,
+        1661
+      ],
+      "sha256": "d3c14d4a24f59d9efe750eafee0cda39b42fb6ce466f649c606c187b8bb73f84"
+    },
+    {
+      "path": "06_Locations/Original_15_Reference_Crops/LOC-013_Underground_Facility.jpg",
+      "source_filename": "LOC-013_Underground_Facility.jpg",
+      "category": "original_15_crop",
+      "pixels": [
+        2048,
+        1661
+      ],
+      "sha256": "337ec112f76ea12ce975585206ea6e57e4556f3cd83d38aca3d894771ae0c496"
+    },
+    {
+      "path": "06_Locations/Original_15_Reference_Crops/LOC-014_The_Place_Between.jpg",
+      "source_filename": "LOC-014_The_Place_Between.jpg",
+      "category": "original_15_crop",
+      "pixels": [
+        2048,
+        1661
+      ],
+      "sha256": "5c29737e512885780d853abf590fb502536acd97ce04b061ff986e5cb11f9ca6"
+    },
+    {
+      "path": "06_Locations/Original_15_Reference_Crops/LOC-015_Convergence_Site.jpg",
+      "source_filename": "LOC-015_Convergence_Site.jpg",
+      "category": "original_15_crop",
+      "pixels": [
+        2048,
+        1661
+      ],
+      "sha256": "0013150b3f623024b45f0af3ba9752a134751e0d6a9db5d48e94ba2a472b392e"
+    },
+    {
+      "path": "06_Locations/Source_Contact_Sheet.png",
+      "source_filename": "Screenshot 2026-11-21 102851.png",
+      "category": "source_contact_sheet",
+      "pixels": [
+        1105,
+        669
+      ],
+      "sha256": "c7c30a5b87f13a90a83b399e011af91bfa4586f34196e913d211ea13d6e1baa0"
+    },
+    {
+      "path": "08_Concept_Art/Unsorted_Visual_References/70b74e01-b16d-406b-962d-52039dde92f2.png",
+      "source_filename": "70b74e01-b16d-406b-962d-52039dde92f2.png",
+      "category": "misc_concept",
+      "pixels": [
+        444,
+        842
+      ],
+      "sha256": "a15ac4d745e0b9a7c3064e85b74d546fb8bd2dcf5dbda2f419644c18289cab18"
+    },
+    {
+      "path": "05_Characters/Concept_References/a_cinematic_character_reference_board_for_a_game_o.png",
+      "source_filename": "a_cinematic_character_reference_board_for_a_game_o.png",
+      "category": "character_concept",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "sha256": "ad337e20acfafae36bb4719e484ca1db4e3bfe20fcc8d31816eacac106271ead"
+    },
+    {
+      "path": "08_Concept_Art/Unsorted_Visual_References/a_cinematic_detailed_unreal_engine_style_scene_a.png",
+      "source_filename": "a_cinematic_detailed_unreal_engine_style_scene_a.png",
+      "category": "misc_concept",
+      "pixels": [
+        1672,
+        941
+      ],
+      "sha256": "c4dea6fa648aa7a6553a3b721a9bba58fa95e036e926053f0157cc1d331099fd"
+    },
+    {
+      "path": "08_Concept_Art/Unsorted_Visual_References/a_cinematic_game_environment_concept_board_for_si.png",
+      "source_filename": "a_cinematic_game_environment_concept_board_for_si.png",
+      "category": "misc_concept",
+      "pixels": [
+        1672,
+        941
+      ],
+      "sha256": "505e1426cfc13ef6085173859c1ddefe3469503fb9b1e08b5a9347d56438b262"
+    },
+    {
+      "path": "07_UI/Concept_References/a_cinematic_game_main_menu_concept_same_layout_an.png",
+      "source_filename": "a_cinematic_game_main_menu_concept_same_layout_an.png",
+      "category": "ui_concept",
+      "pixels": [
+        1671,
+        941
+      ],
+      "sha256": "4e47904cf48deb4c10f12f6cf9a955d85adbcdb7172d1b8d8632f178be208d66"
+    },
+    {
+      "path": "07_UI/Concept_References/a_cinematic_game_pause_menu_ui_scene_for_signal.png",
+      "source_filename": "a_cinematic_game_pause_menu_ui_scene_for_signal.png",
+      "category": "ui_concept",
+      "pixels": [
+        1672,
+        941
+      ],
+      "sha256": "3f1134ac774994138991b11e65a0cc2ff24dbe7917bd7aae1186f8a29f9332f0"
+    },
+    {
+      "path": "08_Concept_Art/Unsorted_Visual_References/a_cinematic_graphic_location_reference_poster_fo.png",
+      "source_filename": "a_cinematic_graphic_location_reference_poster_fo.png",
+      "category": "misc_concept",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "sha256": "1d74749ea9944923721c8f1859044d1e34ee4c4447b03815915880eeca45a928"
+    },
+    {
+      "path": "07_UI/Concept_References/a_cinematic_high_contrast_game_main_menu_for_si.png",
+      "source_filename": "a_cinematic_high_contrast_game_main_menu_for_si.png",
+      "category": "ui_concept",
+      "pixels": [
+        1672,
+        941
+      ],
+      "sha256": "bfb71487c113727b0dea5e251ca202604c738dc50222b0921845ae197b1c47c3"
+    },
+    {
+      "path": "08_Concept_Art/Unsorted_Visual_References/a_cinematic_high_detail_game_concept_infographic.png",
+      "source_filename": "a_cinematic_high_detail_game_concept_infographic.png",
+      "category": "misc_concept",
+      "pixels": [
+        1672,
+        941
+      ],
+      "sha256": "5c1768c954611a2bc08d98a414c74e0ed3229754b747c5a8e71d2c7240e823a1"
+    },
+    {
+      "path": "08_Concept_Art/Unsorted_Visual_References/a_cinematic_high_detail_game_concept_poster_for_t.png",
+      "source_filename": "a_cinematic_high_detail_game_concept_poster_for_t.png",
+      "category": "misc_concept",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "sha256": "886794027407aadd728589c119c6e26b0f6ac1b7505077d46acf6595c4c7298a"
+    },
+    {
+      "path": "07_UI/Concept_References/a_cinematic_high_detail_realistic_game_main_menu.png",
+      "source_filename": "a_cinematic_high_detail_realistic_game_main_menu.png",
+      "category": "ui_concept",
+      "pixels": [
+        1671,
+        941
+      ],
+      "sha256": "021907949108265b707ade49000d11a565b84c29515821f9f25b5a1893b7fe48"
+    },
+    {
+      "path": "05_Characters/Concept_References/a_cinematic_highly_detailed_character_concept_of.png",
+      "source_filename": "a_cinematic_highly_detailed_character_concept_of.png",
+      "category": "character_concept",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "sha256": "cbf2773960159121739e63b38de658646dabfdd7826e99c8bd2b6c978b0ccd0c"
+    },
+    {
+      "path": "08_Concept_Art/Unsorted_Visual_References/a_cinematic_highly_detailed_photoreal_unreal_eng.png",
+      "source_filename": "a_cinematic_highly_detailed_photoreal_unreal_eng.png",
+      "category": "misc_concept",
+      "pixels": [
+        1672,
+        941
+      ],
+      "sha256": "bcf38593fe57b11d0bd224c9244e232d356401ed3e4b3f7168241b78def713af"
+    },
+    {
+      "path": "08_Concept_Art/Unsorted_Visual_References/a_cinematic_highly_detailed_realistic_game_concep.png",
+      "source_filename": "a_cinematic_highly_detailed_realistic_game_concep.png",
+      "category": "misc_concept",
+      "pixels": [
+        1672,
+        941
+      ],
+      "sha256": "15f9842c4bac52ab8aedf2371ccc097da80c9e14b6e8fbdf7ae24c5bbf0dc5eb"
+    },
+    {
+      "path": "05_Characters/Concept_References/a_cinematic_highly_detailed_sci_fi_character_conc.png",
+      "source_filename": "a_cinematic_highly_detailed_sci_fi_character_conc.png",
+      "category": "character_concept",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "sha256": "4804a214ce0a57bc420b4399c3f6a1579746352a45b12ee58fbddd2113c51bca"
+    },
+    {
+      "path": "05_Characters/Concept_References/a_cinematic_highly_detailed_sci_fi_character_port.png",
+      "source_filename": "a_cinematic_highly_detailed_sci_fi_character_port.png",
+      "category": "character_concept",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "sha256": "e8aee1c476b1c806cc1448816f13bc8febd940e3996d7031f340c2b524b1121d"
+    },
+    {
+      "path": "06_Locations/Supplemental_Concepts_Unmapped/a_cinematic_highly_detailed_sci_fi_urban_security.png",
+      "source_filename": "a_cinematic_highly_detailed_sci_fi_urban_security.png",
+      "category": "supplemental_environment_not_canon",
+      "pixels": [
+        1672,
+        941
+      ],
+      "sha256": "419a2eb709cb77de8c04df2d6104dcf55115233ce1fc09139ce16b88e8ded219"
+    },
+    {
+      "path": "08_Concept_Art/Unsorted_Visual_References/a_cinematic_hyper_detailed_photorealistic_sci_fi.png",
+      "source_filename": "a_cinematic_hyper_detailed_photorealistic_sci_fi.png",
+      "category": "misc_concept",
+      "pixels": [
+        1672,
+        941
+      ],
+      "sha256": "a468cfbd2bad6c3cd9a026e978e761564d43c196b8d133254f9fc31efcbd5669"
+    },
+    {
+      "path": "06_Locations/Supplemental_Concepts_Unmapped/a_cinematic_ultra_detailed_cyberpunk_dystopian_ci.png",
+      "source_filename": "a_cinematic_ultra_detailed_cyberpunk_dystopian_ci.png",
+      "category": "supplemental_environment_not_canon",
+      "pixels": [
+        1672,
+        941
+      ],
+      "sha256": "035f760c39139f2c592b835f74419726f28ebfc09dea9f0a2412834488e06e9d"
+    },
+    {
+      "path": "06_Locations/Supplemental_Concepts_Unmapped/a_cinematic_ultra_detailed_dystopian_sci_fi_megac.png",
+      "source_filename": "a_cinematic_ultra_detailed_dystopian_sci_fi_megac.png",
+      "category": "supplemental_environment_not_canon",
+      "pixels": [
+        1672,
+        941
+      ],
+      "sha256": "b1d68eb6a9cf0dbd2c8efc361d61a4cd346840abce82239a4a6fde0b86e4daf4"
+    },
+    {
+      "path": "06_Locations/Supplemental_Concepts_Unmapped/a_cinematic_ultra_detailed_futuristic_dystopian_c.png",
+      "source_filename": "a_cinematic_ultra_detailed_futuristic_dystopian_c.png",
+      "category": "supplemental_environment_not_canon",
+      "pixels": [
+        1672,
+        941
+      ],
+      "sha256": "51e16d624a4873acf7e5e5981abe2a8ca64a69f35814b59dffab445a72281743"
+    },
+    {
+      "path": "08_Concept_Art/Unsorted_Visual_References/a_cinematic_ultra_detailed_futuristic_sci_fi_faci.png",
+      "source_filename": "a_cinematic_ultra_detailed_futuristic_sci_fi_faci.png",
+      "category": "misc_concept",
+      "pixels": [
+        1672,
+        941
+      ],
+      "sha256": "fc42657252b253e9d206a8fcb562c54c173a1147dfe1f1d8bb19143c717c7304"
+    },
+    {
+      "path": "05_Characters/Concept_References/a_cinematic_ultra_detailed_sci_fi_character_conce.png",
+      "source_filename": "a_cinematic_ultra_detailed_sci_fi_character_conce.png",
+      "category": "character_concept",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "sha256": "f28f2d78e4a9c0bf60c8e34450c6e11fda58fa01997a07170b8bf6d832174479"
+    },
+    {
+      "path": "06_Locations/Supplemental_Concepts_Unmapped/a_cinematic_ultra_detailed_sci_fi_command_worksta.png",
+      "source_filename": "a_cinematic_ultra_detailed_sci_fi_command_worksta.png",
+      "category": "supplemental_environment_not_canon",
+      "pixels": [
+        1672,
+        941
+      ],
+      "sha256": "acaf52d779cfeb1c81c18a07ee64f5f070ff02cefe843ef81edbd5ebae6bb774"
+    },
+    {
+      "path": "06_Locations/Supplemental_Concepts_Unmapped/a_cinematic_ultra_detailed_sci_fi_cyberpunk_contr.png",
+      "source_filename": "a_cinematic_ultra_detailed_sci_fi_cyberpunk_contr.png",
+      "category": "supplemental_environment_not_canon",
+      "pixels": [
+        1672,
+        941
+      ],
+      "sha256": "ecc03009c162c94b9af739176ae420cfc1b9ff7bb195fee4a47a42e5bc186263"
+    },
+    {
+      "path": "06_Locations/Supplemental_Concepts_Unmapped/a_cinematic_ultra_detailed_sci_fi_dystopian_city_s.png",
+      "source_filename": "a_cinematic_ultra_detailed_sci_fi_dystopian_city_s.png",
+      "category": "supplemental_environment_not_canon",
+      "pixels": [
+        1672,
+        941
+      ],
+      "sha256": "f9b6f53f5335f0e2e07b3b37abef90dae6e31e87cd5c3661e3e56cefb9b1babe"
+    },
+    {
+      "path": "06_Locations/Supplemental_Concepts_Unmapped/a_cinematic_ultra_detailed_sci_fi_dystopian_citys.png",
+      "source_filename": "a_cinematic_ultra_detailed_sci_fi_dystopian_citys.png",
+      "category": "supplemental_environment_not_canon",
+      "pixels": [
+        1672,
+        941
+      ],
+      "sha256": "9fd950221586452db84ffc4155f85c8287890608789412dd74a02c6cb38f58f1"
+    },
+    {
+      "path": "06_Locations/Supplemental_Concepts_Unmapped/a_cinematic_ultra_detailed_sci_fi_facility_corrid.png",
+      "source_filename": "a_cinematic_ultra_detailed_sci_fi_facility_corrid.png",
+      "category": "supplemental_environment_not_canon",
+      "pixels": [
+        1672,
+        941
+      ],
+      "sha256": "12c9eee3cf3b0a5481240af2de21c3b521bce77818f004544e84b9ea4b1c9570"
+    },
+    {
+      "path": "08_Concept_Art/Unsorted_Visual_References/a_cinematic_ultra_detailed_sci_fi_futuristic_secu.png",
+      "source_filename": "a_cinematic_ultra_detailed_sci_fi_futuristic_secu.png",
+      "category": "misc_concept",
+      "pixels": [
+        1672,
+        941
+      ],
+      "sha256": "0687ea5bee9665d57dd927714f7003b1cbc222dbbf5d16b69bd82d3bc7a16073"
+    },
+    {
+      "path": "06_Locations/Supplemental_Concepts_Unmapped/a_cinematic_ultra_detailed_sci_fi_medical_adminis.png",
+      "source_filename": "a_cinematic_ultra_detailed_sci_fi_medical_adminis.png",
+      "category": "supplemental_environment_not_canon",
+      "pixels": [
+        1672,
+        941
+      ],
+      "sha256": "42d89ed549a137439279abc38f470f74f9e0aea1e5f48db9158a25e4764c1a78"
+    },
+    {
+      "path": "06_Locations/Supplemental_Concepts_Unmapped/a_cinematic_ultra_detailed_sci_fi_medical_governm.png",
+      "source_filename": "a_cinematic_ultra_detailed_sci_fi_medical_governm.png",
+      "category": "supplemental_environment_not_canon",
+      "pixels": [
+        1672,
+        941
+      ],
+      "sha256": "45057d01a7362af3954466c9b019e3d401f955d1ca778d141fd6e0288660a2dc"
+    },
+    {
+      "path": "08_Concept_Art/Unsorted_Visual_References/a_cinematic_ultra_detailed_set_of_four_separate_w.png",
+      "source_filename": "a_cinematic_ultra_detailed_set_of_four_separate_w.png",
+      "category": "misc_concept",
+      "pixels": [
+        1672,
+        941
+      ],
+      "sha256": "aae7f01b23c706ede9dd955876835ee1eaa5b6ce8c61c3fe018f459de2249c23"
+    },
+    {
+      "path": "05_Characters/Concept_References/a_clean_white_background_lineup_of_six_high_detail.png",
+      "source_filename": "a_clean_white_background_lineup_of_six_high_detail.png",
+      "category": "character_concept",
+      "pixels": [
+        2172,
+        724
+      ],
+      "sha256": "4c062e16bdbfb62e95b98a54716f51d6ab1ea79ecaec56ff83254fd26d9f0637"
+    },
+    {
+      "path": "07_UI/Concept_References/a_dark_cinematic_video_game_main_menu_concept_for.png",
+      "source_filename": "a_dark_cinematic_video_game_main_menu_concept_for.png",
+      "category": "ui_concept",
+      "pixels": [
+        1672,
+        941
+      ],
+      "sha256": "74bd542c92b767fcd7308f5f663c1f2f5ec8ab500ae077a061014138707b9aac"
+    },
+    {
+      "path": "08_Concept_Art/Unsorted_Visual_References/a_detailed_cinematic_comic_graphic_novel_storyboa.png",
+      "source_filename": "a_detailed_cinematic_comic_graphic_novel_storyboa.png",
+      "category": "misc_concept",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "sha256": "a68b8eeef81681210295bd4eb30da2793903c604fcafac8816cf90136a13d5f2"
+    },
+    {
+      "path": "05_Characters/Concept_References/a_detailed_cinematic_sci_fi_character_concept_post.png",
+      "source_filename": "a_detailed_cinematic_sci_fi_character_concept_post.png",
+      "category": "character_concept",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "sha256": "a1c068daa1772b6e5a05cec9b04eb2d8d2f0b7aac8e8b81cd6132b9baede97fe"
+    },
+    {
+      "path": "05_Characters/Concept_References/a_full_body_highly_detailed_photorealistic_sci_f.png",
+      "source_filename": "a_full_body_highly_detailed_photorealistic_sci_f.png",
+      "category": "character_concept",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "sha256": "32ad0a3c4c3822beee771f912725b3be310564ecf8f75bb7048d634675974721"
+    },
+    {
+      "path": "05_Characters/Concept_References/a_full_body_photorealistic_cinematic_image_on_a_c.png",
+      "source_filename": "a_full_body_photorealistic_cinematic_image_on_a_c.png",
+      "category": "character_concept",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "sha256": "32f901be41ac05cc4cc3c262b84b47ef5c36ef20a7bff66937e91f5a1b64d14c"
+    },
+    {
+      "path": "05_Characters/Concept_References/a_high_detail_cinematic_character_concept_portrait.png",
+      "source_filename": "a_high_detail_cinematic_character_concept_portrait.png",
+      "category": "character_concept",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "sha256": "b9a4eda58ff5626286535c307a4079e08436c4d5bdd9a040809db60eac3b3496"
+    },
+    {
+      "path": "05_Characters/Concept_References/a_highly_detailed_cinematic_character_concept_a.png",
+      "source_filename": "a_highly_detailed_cinematic_character_concept_a.png",
+      "category": "character_concept",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "sha256": "5f5cc345cbfdcca9ec976b31a45b4ca197a57e2bf5755b38074668aed97fd4b0"
+    },
+    {
+      "path": "05_Characters/Concept_References/a_highly_detailed_cinematic_full_body_character.png",
+      "source_filename": "a_highly_detailed_cinematic_full_body_character.png",
+      "category": "character_concept",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "sha256": "d21a631bd924b36f0071b238dca6cfc5d045849eedea391548c508b87087c5be"
+    },
+    {
+      "path": "06_Locations/Supplemental_Concepts_Unmapped/a_highly_detailed_cinematic_futuristic_governmen.png",
+      "source_filename": "a_highly_detailed_cinematic_futuristic_governmen.png",
+      "category": "supplemental_environment_not_canon",
+      "pixels": [
+        1672,
+        941
+      ],
+      "sha256": "09c29b8f7ea07c46ff4d8d775c971e14d594283d815248cfef43539293fa8fce"
+    },
+    {
+      "path": "06_Locations/Supplemental_Concepts_Unmapped/a_hyper_detailed_cinematic_futuristic_dystopian_c.png",
+      "source_filename": "a_hyper_detailed_cinematic_futuristic_dystopian_c.png",
+      "category": "supplemental_environment_not_canon",
+      "pixels": [
+        1672,
+        941
+      ],
+      "sha256": "8e8b6266090a9ec1f4b7d33ab8caea65fd20cddb75ef1f5c89fc9e788c7c0857"
+    },
+    {
+      "path": "06_Locations/Supplemental_Concepts_Unmapped/a_hyper_detailed_cinematic_sci_fi_dystopian_check.png",
+      "source_filename": "a_hyper_detailed_cinematic_sci_fi_dystopian_check.png",
+      "category": "supplemental_environment_not_canon",
+      "pixels": [
+        1672,
+        941
+      ],
+      "sha256": "a06dc2a1344e5adc11abab092e7ad9062adea70752e2841c1104de39e69c5465"
+    },
+    {
+      "path": "08_Concept_Art/Unsorted_Visual_References/a_large_composite_collage_poster_of_18_cinematic_s.png",
+      "source_filename": "a_large_composite_collage_poster_of_18_cinematic_s.png",
+      "category": "misc_concept",
+      "pixels": [
+        1672,
+        941
+      ],
+      "sha256": "8d9acf92a726cbdc2ba62a1dfadcc6b3e72ab90b8344df7046022a0821c7bfa5"
+    },
+    {
+      "path": "08_Concept_Art/Unsorted_Visual_References/a_large_composite_storyboard_grid_of_18_cinematic.png",
+      "source_filename": "a_large_composite_storyboard_grid_of_18_cinematic.png",
+      "category": "misc_concept",
+      "pixels": [
+        1672,
+        941
+      ],
+      "sha256": "19b5c5ff79242cf2b265011bd76c0c39699a2c56934f1be76233668c582e7b62"
+    },
+    {
+      "path": "08_Concept_Art/Unsorted_Visual_References/thumbnail (1).png",
+      "source_filename": "thumbnail (1).png",
+      "category": "misc_concept",
+      "pixels": [
+        1672,
+        941
+      ],
+      "sha256": "6272e80d61216290d74e3883e595e52f9cbb386cb9ea58afa14a69c924a4b9d5"
+    }
+  ]
+}
